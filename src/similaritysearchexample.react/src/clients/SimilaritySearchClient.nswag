@@ -13,7 +13,7 @@
     "openApiToTypeScriptClient": {
       "className": "{controller}Client",
       "moduleName": "SimilaritySearchClient",
-      "namespace": "SimilaritySearchExample",
+      "namespace": "",
       "typeScriptVersion": 2.7,
       "template": "Axios",
       "promiseType": "Promise",

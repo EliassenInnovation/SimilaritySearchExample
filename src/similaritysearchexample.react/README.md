@@ -1,3 +1,19 @@
+
+## Notes
+
+This is using openapi-zod-client to create a zod based client.
+
+- https://zod.dev/ 
+- https://www.openapis.org/what-is-openapi
+- https://github.com/astahmer/openapi-zod-client
+- https://ui.shadcn.com/docs/installation/manual
+- https://tailwindcss.com/docs/installation
+  - https://ui.shadcn.com/docs/components-json
+- https://github.com/vantezzen/auto-form
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
