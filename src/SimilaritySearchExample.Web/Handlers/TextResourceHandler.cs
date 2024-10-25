@@ -66,7 +66,7 @@ public class TextResourceHandler : IMessageQueueHandler<TextResources>
             return;
         }
 
-        var systemPrompt = @"Summerize the provided content";
+        var systemPrompt = @"Summarize the provided content";
         var summary = await _languageModel.GetCompletionAsync(new()
         {
             Model = _config.DefaultModel ?? "phi",
